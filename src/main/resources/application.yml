@@ -10,4 +10,5 @@ spring:
   devtools:
     livereload:
       enabled: true
-
+  mvc:
+    static-path-pattern: /**
